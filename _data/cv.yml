@@ -1,0 +1,146 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Liesl (Elizabeth) Broadbridge, PhD, ScM, CGC
+    - name: Languages
+      value: English
+
+- title: Education & Training
+  type: time_table
+  contents:
+    - title: Post-Doctoral Research Fellowship
+      institution: Dana-Farber Cancer Institute, Division of Population Sciences (PI Jennifer Mack, MD, MPH)
+      year: 2026 - current
+      description:
+        - "Funding: NCI K00 Award (K00CA294165)"
+    - title: PhD in Health Communication
+      institution: Rutgers University – New Brunswick (Advisor Kathryn Greene, PhD, MA)
+      year: 2021 - 2026
+      description:
+        - "Dissertation: Comparing post-test genetic counseling with and without pre-test counseling: The evolving landscape for optimizing cancer care"
+        - "Funding: NCI F99 Award (F99CA294165)"
+    - title: ScM in Genetic Counseling
+      institution: Johns Hopkins University, Bloomberg School of Public Health (Advisors Debra Roter, DrPH & Lori Erby, PhD, ScM, CGC)
+      year: 2018 - 2021
+      description:
+        - "Thesis: The influence of the physical environment in simulated genetic counseling sessions"
+    - title: Pre-Doctoral Research Fellowship
+      institution: National Institutes of Health, National Human Genome Research Institute & NCI (PI Lori Erby, PhD, ScM, CGC)
+      year: 2018 - 2021
+    - title: Post-Baccalaureate Research Fellowship
+      institution: National Institutes of Health, National Human Genome Research Institute (PI Paul Liu, MD, PhD)
+      year: 2016 - 2018
+    - title: BS in Biochemistry, minor in Graphic Design
+      institution: University of Wisconsin – Madison (PI Anna Huttenlocher, MD)
+      year: 2012 - 2016
+
+- title: Clinical Experience
+  type: time_table
+  contents:
+    - title: Genetic Counselor
+      institution: National Human Genome Research Institute, The Genomic Services Resource Program
+      year: 2022 - 2025
+    - title: Genetic Counselor
+      institution: Parent Project Muscular Dystrophy
+      year: 2021
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - "Outstanding Graduating Student, Rutgers School of Communication & Information (May)"
+        - "Meritorious Abstract awardee, Society of Behavioral Medicine (Apr)"
+        - "Top Conference Paper, Kentucky Conference on Health Communication (Apr)"
+    - year: 2025
+      items:
+        - "Top Abstract finalist, National Society of Genetic Counselors (Nov)"
+    - year: 2024
+      items:
+        - "Pilot Award, Rutgers Cancer Institute (Jun)"
+        - "Dissertation Grant, Rutgers School of Communication & Information (Apr)"
+    - year: 2023
+      items:
+        - "NCI Predoctoral to Postdoctoral Fellow Transition Award nominee, Rutgers University (Sep)"
+        - "National Society of Genetic Counselors competitive travel grant (Sep)"
+        - "Outstanding Doctoral Student, Rutgers School of Communication & Information (May)"
+    - year: 2022
+      items:
+        - "Philanthropic Educational Organization national scholar nominee (Nov)"
+        - "Travel grant, National Communication Association (Oct)"
+        - "Summer Research Scholarship, Rutgers School of Communication & Information (Jun)"
+        - "Outstanding Teaching Assistant, Rutgers School of Communication & Information (May)"
+        - "Outstanding Doctoral Student nominee, Rutgers School of Communication & Information (May)"
+        - "Top abstract panel, Rutgers-Princeton University Cancer Research Symposium (Jan)"
+    - year: 2018
+      items:
+        - "Outstanding poster presentation award, NIH Post-Baccalaureate Research Day"
+    - year: 2017
+      items:
+        - "Outstanding poster presentation award, NIH Post-Baccalaureate Research Day"
+
+- title: Grant Activity
+  type: time_table
+  contents:
+    - title: "Leveraging informatics to improve communication and outcomes of genetic counseling: The evolving landscape for cancer care"
+      institution: "National Cancer Institute, NIH — Predoctoral to Postdoctoral Fellow Transition Award (K00CA294165), PI Broadbridge, $360,960"
+      year: 2026 - 2030
+    - title: "Comparing post-test genetic counseling with and without pre-test counseling: The evolving landscape for optimizing cancer care"
+      institution: "National Cancer Institute, NIH — Predoctoral to Postdoctoral Fellow Transition Award (F99CA294165), PI Broadbridge, $73,391"
+      year: 2024 - 2026
+    - title: "Companion influence on patient communication during prostate cancer care"
+      institution: "Rutgers School of Communication and Information — Grants for Individual Faculty Research, PI Greene, Co-I Broadbridge, $4,500"
+      year: 2025 - 2026
+    - title: "Psychological adjustment across the breast cancer illness trajectory"
+      institution: "Rutgers Cancer Institute — Cancer Survivorship and Outcomes Center Award, Co-Is Broadbridge, Devine, Greene, $4,800"
+      year: 2022 - 2023
+    - title: "Companion influence on patient communication during prostate cancer care"
+      institution: "Rutgers Cancer Institute — Cancer Prevention and Control Research Stimulus Small Awards, MPI Broadbridge, $15,000"
+      year: 2022 - 2023
+
+- title: Service and Leadership
+  type: time_table
+  contents:
+    - title: Committee member, Research, Quality, and Outcomes Committee
+      institution: National Society of Genetic Counselors
+      year: 2025 - 2027
+    - title: Graduate Student Representative, Health Communication Division executive board
+      institution: National Communication Association
+      year: 2023 - 2025
+    - title: Steering Committee, Symposium on Racial Disparities in Healthcare Communication
+      institution: Rutgers University
+      year: 2022
+    - title: Co-Chair, Health, Behavior, and Society Student Organization
+      institution: Johns Hopkins University
+      year: 2019 - 2020
+
+- title: Selected Presentations and Invited Talks
+  type: time_table
+  contents:
+    - title: "Post-test genetic counseling: The evolving landscape for optimizing cancer care"
+      institution: Invited speaker, Communication Research Group, Huntsman Cancer Institute, University of Utah
+      year: 2026
+    - title: Provider empathy and disclosure decision-making
+      institution: Conference paper presentation, National Communication Association Conference
+      year: 2022
+    - title: Oral testimony to the Advisory Committee on Heritable Disorders in Newborns and Children
+      institution: on the importance of newborn screening for the rare disease community
+      year: 2021
+
+- title: Professional Affiliations
+  type: nested_list
+  contents:
+    - title: Board Certification
+      items:
+        - "American Board of Genetic Counselors Diplomate (2021–2026; recertified 2026–2031)"
+    - title: Society Memberships
+      items:
+        - National Society of Genetic Counselors (2021–)
+        - National Communication Association (2021–2025)
+        - International Communication Association (2021–2024)
+    - title: Research Affiliations
+      items:
+        - Genomics, Risk & Health Decision-Making Laboratory, Memorial Sloan Kettering Cancer Center (2023–)
+        - Cancer Survivorship and Outcomes Center, Rutgers Cancer Institute (2021–2026)
+        - Cancer Prevention and Control Research Program, Rutgers Cancer Institute (2021–2026)
