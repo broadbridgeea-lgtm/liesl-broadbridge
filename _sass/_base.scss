@@ -281,11 +281,18 @@ details {
 // END MONOSPACE-EXTENSION
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 2.5rem;
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 2.5rem;
+}
+
+.edu-subheader {
+  display: inline-block;
+  font-family: monospace;
+  font-weight: bold;
+  margin-top: 0.5rem;
 }
 
 @media (min-width: 576px) {
@@ -1606,4 +1613,29 @@ figure.cover {
 
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
+}
+
+// Print stylesheet: lets visitors print/save the CV (and other pages) as a
+// clean PDF directly from the browser, since collapsed <details> sections
+// would otherwise print empty and page chrome (nav/search/footer) isn't
+// useful on paper.
+@media print {
+  #navbar,
+  footer.fixed-bottom,
+  footer.sticky-bottom,
+  #back-to-top,
+  #bibsearch {
+    display: none !important;
+  }
+
+  details {
+    > *:not(summary) {
+      display: block !important;
+    }
+
+    summary::-webkit-details-marker,
+    summary.card-title::after {
+      display: none !important;
+    }
+  }
 }

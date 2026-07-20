@@ -29,7 +29,7 @@ I am currently a Postdoctoral Research Fellow in the Division of Population Scie
 
 My goal is to develop evidence-based interventions that improve the quality of cancer genetic counseling, support clients' health-promoting behaviors and psychological well-being, and enhance cancer prevention efforts through high-quality research and evidence-based clinician training.
 
-**Education**
+<span class="edu-subheader">Education</span>
 - Postdoctoral Research Fellowship, Dana-Farber Cancer Institute (2026–current)
 - PhD, Health Communication, Rutgers University (2021–2026)
 - ScM, Genetic Counseling, Johns Hopkins University Bloomberg School of Public Health (2018–2021)
