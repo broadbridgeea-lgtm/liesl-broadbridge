@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This page summarizes highlights.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/liesl-broadbridge/cv/";
