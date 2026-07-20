@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-01
+date: 2022-01-21
 inline: true
 related_posts: false
 ---
 
-New paper in *Cancer Medicine*: ["Examining the role of pre-visit anxiety on patient uncertainty and breast cancer patient–provider communication."](https://onlinelibrary.wiley.com/doi/10.1002/cam4.70003)
+Op-ed in [STAT News](https://www.statnews.com/2022/01/21/what-genetic-counselors-can-teach-the-cdc-about-communicating-uncertainty/): "What genetic counselors can teach the CDC about communicating uncertainty."

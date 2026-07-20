@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD, ScM, CGC — Postdoctoral Research Fellow, Dana-Farber Cancer Institute
+subtitle: PhD, ScM, CGC — NCI K00 Postdoctoral Research Fellow, Dana-Farber Cancer Institute + Harvard Medical School
 
 profile:
   align: right
@@ -23,9 +23,11 @@ latest_posts:
   enabled: false
 ---
 
+
 I am a board-certified genetic counselor (CGC) and behavioral scientist specializing in translational health communication. My research examines how patient-clinician communication can facilitate better integration of health information and, ultimately, improve the psychological health of patients.
 
 My goal is to develop evidence-based interventions that improve the quality of cancer genetic counseling, support clients' health-promoting behaviors and psychological well-being, and enhance cancer prevention efforts through high-quality research and evidence-based clinician training.
+
 
 <span class="edu-subheader">Education</span>
 <div class="edu-list">

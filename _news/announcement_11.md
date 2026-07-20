@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-05-29
+date: 2023-09-15
 inline: true
 related_posts: false
 ---
 
-New paper in *Patient Education and Counseling*: ["Facilitating psychological adjustment for breast cancer patients through empathic communication and uncertainty reduction."](https://doi.org/10.1016/j.pec.2023.107791)
+Selected by Rutgers University to apply for the highly competitive [NIH F99/K00 award](https://www.cancer.gov/grants-training/training/funding/f99) — one nomination per institution.

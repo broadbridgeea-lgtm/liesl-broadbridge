@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-05-05
+date: 2023-09-25
 inline: true
 related_posts: false
 ---
 
-Recognized as ["Outstanding Student"](https://comminfo.rutgers.edu/news/sci-celebrates-honors-day-2023-may-5) by faculty vote at Rutgers Honors Day (second-year PhD student).
+[Rutgers School of Communication and Information](https://comminfo.rutgers.edu/news/empathy-cancer-care-clinicians-promotes-psychological-well-being-breast-cancer-patients-rutgers-study-finds) covers our recent paper on empathy and psychological well-being in breast cancer care.

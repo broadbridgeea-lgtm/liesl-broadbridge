@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-01-21
+date: 2024-06-01
 inline: true
 related_posts: false
 ---
 
-Op-ed in [STAT News](https://www.statnews.com/2022/01/21/what-genetic-counselors-can-teach-the-cdc-about-communicating-uncertainty/): "What genetic counselors can teach the CDC about communicating uncertainty."
+New paper in *Cancer Medicine*: ["Examining the role of pre-visit anxiety on patient uncertainty and breast cancer patient–provider communication."](https://onlinelibrary.wiley.com/doi/10.1002/cam4.70003)

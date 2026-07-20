@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-01
+date: 2021-09-05
 inline: true
 related_posts: false
 ---
 
-Received one of 23 nationwide [NIH F99/K00 Transition Award](https://comminfo.rutgers.edu/news/liesl-broadbridge-awarded-prestigious-national-cancer-institute-predoctoral-postdoctoral-fellow-transition-award-f99k00)s from the National Cancer Institute, supporting the final two years of my PhD plus four postdoctoral years.
+Delivered [oral testimony](https://everylifefoundation.org/wp-content/uploads/2021/09/Liesl.pdf) to the Advisory Committee on Heritable Disorders in Newborns and Children on the importance of newborn screening for the rare disease community.

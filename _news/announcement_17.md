@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-02-11
+date: 2024-03-01
 inline: true
 related_posts: false
 ---
 
-[Rutgers School of Communication and Information](https://comminfo.rutgers.edu/news/covid-19-pandemic-highlights-need-further-resourcing-us-newborn-screening-programs) covers our co-authored research on COVID-19's impact on newborn screening programs.
+New paper in *Psycho-Oncology*: ["Supporting the support person"](https://onlinelibrary.wiley.com/doi/full/10.1002/pon.6313), on how clinician empathy reduces uncertainty for cancer patients' support people.
