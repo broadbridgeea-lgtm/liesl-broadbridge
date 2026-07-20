@@ -221,10 +221,22 @@ details {
   }
 }
 
-// About page: push the social icons toward the bottom of the window when
-// content is short, without disturbing the profile image's float layout.
-.about-article {
-  min-height: 65vh;
+// About page: justify the bio paragraphs.
+.about-article .clearfix {
+  text-align: justify;
+}
+
+// Site-wide footer icon bar (replaces the copyright text): keep the icons
+// compact so the fixed footer bar stays slim.
+.footer-contact-icons {
+  font-size: 1.1rem;
+
+  a img,
+  a svg {
+    width: 1rem;
+    height: 1rem;
+    margin-bottom: 0 !important;
+  }
 }
 
 // Profile
@@ -260,6 +272,7 @@ details {
 
 .periodical {
   font-family: monospace;
+  font-size: 0.85em;
 }
 
 .news-date {

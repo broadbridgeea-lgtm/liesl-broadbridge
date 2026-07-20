@@ -14,7 +14,7 @@ layout: default
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
-  <article class="about-article d-flex flex-column">
+  <article class="about-article">
     <div>
       {% if page.profile %}
         <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
@@ -68,7 +68,7 @@ layout: default
 
     <!-- Social -->
     {% if page.social %}
-      <div class="social mt-auto">
+      <div class="social">
         <div class="contact-icons">{% social_links %}</div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
