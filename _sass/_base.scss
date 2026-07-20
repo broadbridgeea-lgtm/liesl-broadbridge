@@ -193,10 +193,21 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
+// About page: push the social icons toward the bottom of the window when
+// content is short, without disturbing the profile image's float layout.
+.about-article {
+  min-height: 65vh;
+}
+
 // Profile
 
 .profile {
   width: 100%;
+
+  img.rounded-circle {
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+  }
 
   .more-info {
     margin-bottom: 5px;

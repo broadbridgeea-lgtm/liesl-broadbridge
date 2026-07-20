@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>DFCI</p>
-    <p>HMS</p>
+    <p>Dana-Farber Cancer Institute</p>
+    <p>Harvard Medical School</p>
     <p>Research Fellow</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
