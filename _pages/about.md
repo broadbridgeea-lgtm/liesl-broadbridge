@@ -23,9 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a certified genetic counselor (CGC) and behavioral scientist specializing in translational health communication. My research examines how communication occurs between patients and clinicians, and how that communication can facilitate better integration of health information and, ultimately, the psychological health of patients.
-
-I am currently a Postdoctoral Research Fellow in the Division of Population Sciences at Dana-Farber Cancer Institute, supported by an NCI K00 Transition Award. My work combines survey data with interaction audio to understand how clinical communication affects patient-reported outcomes. My doctoral research provided a first-of-its-kind characterization of communication and outcomes in post-test genetic counseling for hereditary cancer risk.
+I am a board-certified genetic counselor (CGC) and behavioral scientist specializing in translational health communication. My research examines how patient-clinician communication can facilitate better integration of health information and, ultimately, improve the psychological health of patients.
 
 My goal is to develop evidence-based interventions that improve the quality of cancer genetic counseling, support clients' health-promoting behaviors and psychological well-being, and enhance cancer prevention efforts through high-quality research and evidence-based clinician training.
 
