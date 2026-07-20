@@ -30,7 +30,7 @@ layout: default
       <div class="cv">
         {% for entry in site.data.cv %}
           <a class="anchor" id="{{ entry.title }}"></a>
-          <details class="card mt-3 p-3">
+          <details class="card mt-3 p-3" {% if entry.title == "Education & Training" %}open{% endif %}>
             <summary class="card-title font-weight-medium" style="cursor: pointer;">{{ entry.title }}</summary>
             <div class="mt-2">
               {% if entry.type == 'list' %}
