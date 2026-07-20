@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-01
+date: 2023-12-29
 inline: true
 related_posts: false
 ---
 
-Interviewed by Jennifer Byrne for Healio News about my findings on physician empathy: "Having this evidence is a useful way to target our thinking" toward patient uncertainty.
+[Interviewed by Healio News/HemeOnc Today](https://www.healio.com/news/hematology-oncology/20231228/physician-empathy-promotes-better-psychological-wellbeing-in-patients-with-breast-cancer) about my findings on physician empathy and psychological well-being in breast cancer patients.

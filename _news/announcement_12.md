@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-11-01
+date: 2023-05-05
 inline: true
 related_posts: false
 ---
 
-Gave a platform presentation on provider empathy and disclosure decision-making at the National Communication Association conference.
+Recognized as ["Outstanding Student"](https://comminfo.rutgers.edu/news/sci-celebrates-honors-day-2023-may-5) by faculty vote at Rutgers Honors Day (second-year PhD student).

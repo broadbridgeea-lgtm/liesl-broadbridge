@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper in *Cancer Medicine*: "Examining the role of pre-visit anxiety on patient uncertainty and breast cancer patient–provider communication."
+New paper in *Cancer Medicine*: ["Examining the role of pre-visit anxiety on patient uncertainty and breast cancer patient–provider communication."](https://onlinelibrary.wiley.com/doi/10.1002/cam4.70003)

@@ -7,11 +7,11 @@ subtitle: PhD, ScM, CGC — Postdoctoral Research Fellow, Dana-Farber Cancer Ins
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Division of Population Sciences</p>
-    <p>Dana-Farber Cancer Institute</p>
-    <p>Harvard Medical School Research Fellow</p>
+    <p>DFCI</p>
+    <p>HMS</p>
+    <p>Research Fellow</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

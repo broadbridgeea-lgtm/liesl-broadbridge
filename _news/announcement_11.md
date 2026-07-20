@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-05-01
+date: 2023-05-29
 inline: true
 related_posts: false
 ---
 
-Recognized as "Outstanding Student" by faculty vote at Rutgers Honors Day (second-year PhD student).
+New paper in *Patient Education and Counseling*: ["Facilitating psychological adjustment for breast cancer patients through empathic communication and uncertainty reduction."](https://doi.org/10.1016/j.pec.2023.107791)

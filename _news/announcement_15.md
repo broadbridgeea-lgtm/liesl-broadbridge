@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-02-01
+date: 2022-05-10
 inline: true
 related_posts: false
 ---
 
-Interviewed by Rutgers about co-authored research on COVID-19's impact on newborn screening programs.
+Awarded a pilot grant from the Rutgers Cancer Institute's Cancer Survivorship & Outcomes Center for ["Psychological adjustment across the breast cancer illness trajectory"](https://doi.org/10.1016/j.pec.2023.107791) (co-PI with Dr. Kathryn Greene).

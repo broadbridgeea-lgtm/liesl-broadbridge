@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-08-01
+date: 2023-09-15
 inline: true
 related_posts: false
 ---
 
-New paper in *Health Communication*: "The Influence of Perceived Provider Empathic Communication on Disclosure Decision-Making," showing empathic communication bolsters patients' disclosure efficacy and information-sharing with oncologists.
+Selected by Rutgers University to apply for the highly competitive [NIH F99/K00 award](https://www.cancer.gov/grants-training/training/funding/f99) — one nomination per institution.
