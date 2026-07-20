@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/liesl-broadbridge/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-cv",
+          title: "cv",
+          description: "Below is a condensed CV. For a full and current CV, please email: liesl_broadbridge@dfci.harvard.edu",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/liesl-broadbridge/cv/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "For the most up-to-date list of publications, please visit my Google Scholar profile or MyNCBI bibliography.",
           section: "Navigation",
@@ -22,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/liesl-broadbridge/news/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Below is a condensed CV. For a full and current CV, please email: liesl_broadbridge@dfci.harvard.edu",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/liesl-broadbridge/cv/";
           },
         },{id: "news-delivered-oral-testimony-to-the-advisory-committee-on-heritable-disorders-in-newborns-and-children-on-the-importance-of-newborn-screening-for-the-rare-disease-community",
           title: 'Delivered oral testimony to the Advisory Committee on Heritable Disorders in Newborns and...',
