@@ -193,6 +193,34 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
+// Collapsible sections (CV, publications) — custom chevron instead of the
+// browser's default disclosure triangle
+details {
+  summary.card-title {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::after {
+      content: "\f078";
+      font-family: "Font Awesome 6 Free";
+      font-weight: 900;
+      font-size: 0.85rem;
+      margin-left: 0.75rem;
+      transition: transform 0.2s ease-in-out;
+    }
+  }
+
+  &[open] summary.card-title::after {
+    transform: rotate(180deg);
+  }
+}
+
 // About page: push the social icons toward the bottom of the window when
 // content is short, without disturbing the profile image's float layout.
 .about-article {
@@ -207,6 +235,7 @@ ul.task-list input[type="checkbox"] {
   img.rounded-circle {
     aspect-ratio: 1 / 1;
     object-fit: cover;
+    object-position: center 10%;
   }
 
   .more-info {
@@ -220,6 +249,23 @@ ul.task-list input[type="checkbox"] {
     }
   }
 }
+
+// MONOSPACE-EXTENSION: extends the .profile .more-info monospace treatment
+// (above) to other date/metadata elements site-wide, for visual consistency.
+// To reverse: delete this block (and the "news-date" class added in
+// _includes/news.liquid, which can stay even if unused).
+.cv .badge {
+  font-family: monospace;
+}
+
+.periodical {
+  font-family: monospace;
+}
+
+.news-date {
+  font-family: monospace;
+}
+// END MONOSPACE-EXTENSION
 
 .profile.float-right {
   margin-left: 1rem;
@@ -818,14 +864,30 @@ footer.sticky-bottom {
         }
       }
 
+      // Put DOI/link buttons and altmetric/dimensions badges on one row,
+      // vertically centered together.
+      .links,
+      .badges {
+        display: inline-flex;
+        flex-wrap: wrap;
+        align-items: center;
+        vertical-align: middle;
+      }
+
       .links {
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          height: 22px;
+          padding-left: 0.5rem;
+          padding-right: 0.5rem;
+          padding-top: 0;
+          padding-bottom: 0;
+          font-size: 0.7rem;
+          line-height: 1;
           margin-left: 0;
 
           &:hover {
