@@ -1,11 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Liesl (Elizabeth) Broadbridge, PhD, ScM, CGC
-    - name: Languages
-      value: English
-
 - title: Education & Training
   type: time_table
   contents:
@@ -13,6 +5,7 @@
       institution: Dana-Farber Cancer Institute, Division of Population Sciences (PI Jennifer Mack, MD, MPH)
       year: 2026 - current
       description:
+        - Harvard Medical School Research Fellow
         - "Funding: NCI K00 Award (K00CA294165)"
     - title: PhD in Health Communication
       institution: Rutgers University – New Brunswick (Advisor Kathryn Greene, PhD, MA)
@@ -84,19 +77,19 @@
   type: time_table
   contents:
     - title: "Leveraging informatics to improve communication and outcomes of genetic counseling: The evolving landscape for cancer care"
-      institution: "National Cancer Institute, NIH — Predoctoral to Postdoctoral Fellow Transition Award (K00CA294165), PI Broadbridge, $360,960"
+      institution: "National Cancer Institute, NIH — Predoctoral to Postdoctoral Fellow Transition Award (K00CA294165), PI Broadbridge"
       year: 2026 - 2030
     - title: "Comparing post-test genetic counseling with and without pre-test counseling: The evolving landscape for optimizing cancer care"
-      institution: "National Cancer Institute, NIH — Predoctoral to Postdoctoral Fellow Transition Award (F99CA294165), PI Broadbridge, $73,391"
+      institution: "National Cancer Institute, NIH — Predoctoral to Postdoctoral Fellow Transition Award (F99CA294165), PI Broadbridge"
       year: 2024 - 2026
     - title: "Companion influence on patient communication during prostate cancer care"
-      institution: "Rutgers School of Communication and Information — Grants for Individual Faculty Research, PI Greene, Co-I Broadbridge, $4,500"
+      institution: "Rutgers School of Communication and Information — Grants for Individual Faculty Research, PI Greene, Co-I Broadbridge"
       year: 2025 - 2026
     - title: "Psychological adjustment across the breast cancer illness trajectory"
-      institution: "Rutgers Cancer Institute — Cancer Survivorship and Outcomes Center Award, Co-Is Broadbridge, Devine, Greene, $4,800"
+      institution: "Rutgers Cancer Institute — Cancer Survivorship and Outcomes Center Award, Co-Is Broadbridge, Devine, Greene"
       year: 2022 - 2023
     - title: "Companion influence on patient communication during prostate cancer care"
-      institution: "Rutgers Cancer Institute — Cancer Prevention and Control Research Stimulus Small Awards, MPI Broadbridge, $15,000"
+      institution: "Rutgers Cancer Institute — Cancer Prevention and Control Research Stimulus Small Awards, MPI Broadbridge"
       year: 2022 - 2023
 
 - title: Service and Leadership

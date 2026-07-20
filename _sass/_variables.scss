@@ -23,6 +23,8 @@ $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
+$dfci-blue: #00629b !default; // Dana-Farber Cancer Institute brand blue
+$dfci-blue-light: #41b6e6 !default; // lighter DFCI blue, used for dark mode contrast
 
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);

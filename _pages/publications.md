@@ -17,6 +17,26 @@ nav_order: 1
 
 <div class="publications">
 
-{% bibliography %}
+<details open>
+  <summary class="card-title font-weight-medium" style="cursor: pointer;">Manuscripts</summary>
+  <div class="mt-2">
+    {% bibliography --query @article %}
+  </div>
+</details>
+
+<details>
+  <summary class="card-title font-weight-medium" style="cursor: pointer;">Book Chapters</summary>
+  <div class="mt-2">
+    {% bibliography --query @incollection %}
+  </div>
+</details>
+
+<details>
+  <summary class="card-title font-weight-medium" style="cursor: pointer;">Other</summary>
+  <div class="mt-2">
+    {% bibliography --query @misc %}
+    {% bibliography --query @unpublished %}
+  </div>
+</details>
 
 </div>

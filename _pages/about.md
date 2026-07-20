@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Division of Population Sciences</p>
     <p>Dana-Farber Cancer Institute</p>
+    <p>Harvard Medical School Research Fellow</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
