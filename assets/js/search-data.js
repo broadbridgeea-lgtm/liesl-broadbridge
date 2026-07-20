@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This page summarizes highlights; download the PDF above for the complete list of publications, conference papers, posters, invited talks, and clinical training.",
+          description: "This page summarizes highlights.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/liesl-broadbridge/cv/";
@@ -88,13 +88,6 @@ ninja.data = [{
           title: 'Received one of 23 nationwide NIH F99/K00 Transition Awards from the National Cancer...',
           description: "",
           section: "News",},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/liesl-broadbridge/assets/pdf/cv.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
