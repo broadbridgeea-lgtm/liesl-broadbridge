@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD, ScM, CGC — NCI K00 Postdoctoral Research Fellow, Dana-Farber Cancer Institute + Harvard Medical School
+subtitle: NCI K00 Postdoctoral Research Fellow, Dana-Farber Cancer Institute + Harvard Medical School
 
 profile:
   align: right

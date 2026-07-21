@@ -268,6 +268,7 @@ details {
 // _includes/news.liquid, which can stay even if unused).
 .cv .badge {
   font-family: monospace;
+  box-shadow: none !important;
 }
 
 .periodical {
@@ -309,6 +310,7 @@ details {
       text-align: center;
       color: var(--global-card-bg-color) !important;
       background-color: var(--global-theme-color) !important;
+      box-shadow: none !important;
     }
   }
 }

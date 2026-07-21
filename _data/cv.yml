@@ -2,30 +2,28 @@
   type: time_table
   contents:
     - title: Post-Doctoral Research Fellowship
-      institution: Dana-Farber Cancer Institute, Division of Population Sciences (PI Jennifer Mack, MD, MPH)
+      institution: Dana-Farber Cancer Institute, Division of Population Sciences 
+        Harvard Medical School Research Fellow
       year: 2026 - current
       description:
-        - Harvard Medical School Research Fellow
-        - "Funding: NCI K00 Award (K00CA294165)"
+        - "Funding: K00CA294165"
     - title: PhD in Health Communication
-      institution: Rutgers University – New Brunswick (Advisor Kathryn Greene, PhD, MA)
+      institution: Rutgers University – New Brunswick
       year: 2021 - 2026
       description:
-        - "Dissertation: Comparing post-test genetic counseling with and without pre-test counseling: The evolving landscape for optimizing cancer care"
-        - "Funding: NCI F99 Award (F99CA294165)"
+        - "Funding: F99CA294165"
     - title: ScM in Genetic Counseling
-      institution: Johns Hopkins University, Bloomberg School of Public Health (Advisors Debra Roter, DrPH & Lori Erby, PhD, ScM, CGC)
+      institution: Johns Hopkins University, Bloomberg School of Public Health
       year: 2018 - 2021
       description:
-        - "Thesis: The influence of the physical environment in simulated genetic counseling sessions"
     - title: Pre-Doctoral Research Fellowship
-      institution: National Institutes of Health, National Human Genome Research Institute & NCI (PI Lori Erby, PhD, ScM, CGC)
+      institution: National Institutes of Health, National Human Genome Research Institute & NCI
       year: 2018 - 2021
     - title: Post-Baccalaureate Research Fellowship
-      institution: National Institutes of Health, National Human Genome Research Institute (PI Paul Liu, MD, PhD)
+      institution: National Institutes of Health, National Human Genome Research Institute
       year: 2016 - 2018
     - title: BS in Biochemistry, minor in Graphic Design
-      institution: University of Wisconsin – Madison (PI Anna Huttenlocher, MD)
+      institution: University of Wisconsin – Madison
       year: 2012 - 2016
 
 - title: Clinical Experience
@@ -73,7 +71,7 @@
       items:
         - "Outstanding poster presentation award, NIH Post-Baccalaureate Research Day"
 
-- title: Grant Activity
+- title: Selected Grant Activity
   type: time_table
   contents:
     - title: "Leveraging informatics to improve communication and outcomes of genetic counseling: The evolving landscape for cancer care"
@@ -88,11 +86,8 @@
     - title: "Psychological adjustment across the breast cancer illness trajectory"
       institution: "Rutgers Cancer Institute — Cancer Survivorship and Outcomes Center Award, Co-Is Broadbridge, Devine, Greene"
       year: 2022 - 2023
-    - title: "Companion influence on patient communication during prostate cancer care"
-      institution: "Rutgers Cancer Institute — Cancer Prevention and Control Research Stimulus Small Awards, MPI Broadbridge"
-      year: 2022 - 2023
 
-- title: Service and Leadership
+- title: Selected Service and Leadership
   type: time_table
   contents:
     - title: Committee member, Research, Quality, and Outcomes Committee
@@ -101,9 +96,6 @@
     - title: Graduate Student Representative, Health Communication Division executive board
       institution: National Communication Association
       year: 2023 - 2025
-    - title: Steering Committee, Symposium on Racial Disparities in Healthcare Communication
-      institution: Rutgers University
-      year: 2022
     - title: Co-Chair, Health, Behavior, and Society Student Organization
       institution: Johns Hopkins University
       year: 2019 - 2020
@@ -114,12 +106,24 @@
     - title: "Post-test genetic counseling: The evolving landscape for optimizing cancer care"
       institution: Invited speaker, Communication Research Group, Huntsman Cancer Institute, University of Utah
       year: 2026
-    - title: Provider empathy and disclosure decision-making
-      institution: Conference paper presentation, National Communication Association Conference
-      year: 2022
-    - title: Oral testimony to the Advisory Committee on Heritable Disorders in Newborns and Children
-      institution: on the importance of newborn screening for the rare disease community
-      year: 2021
+    - title: "Patterns of patient disclosure decisions during post-test genetic counseling predict avoidant thoughts"
+      institution: Podium talk, Communication Research Group, Society for Behavioral Medicine Annual Conference
+      year: 2026
+    - title: "Survey design: Practical considerations for genetic counseling research "
+      institution: Guest lecture, Genetic Counseling Master’s Program Thesis Development, Rutgers University
+      year: 2026
+    - title: "Time alone, not time lonely: Breast cancer patient experiences with and preferences for time alone with their cancer care team"
+      institution: Podium talk, D.C. Conference on Health Communication
+      year: 2025
+    - title: "Effective communication"
+      institution: Invited speaker, Education Research Group, Department of Surgery, Indiana University School of Medicine
+      year: 2025
+    - title: "Presenting research: Strategies for effective communication"
+      institution: Guest lecture, Genetic Counseling Training Program Thesis Development, Johns Hopkins University
+      year: 2024
+    - title: "Pre-Appointment Anxiety Affects Breast Cancer Patient-Provider Communication and Illness Uncertainty"
+      institution: Podium talk, The National Communication Association Annual Conference
+      year: 2024
 
 - title: Professional Affiliations
   type: nested_list
