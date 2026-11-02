@@ -10,7 +10,7 @@ noindex: true
 <div class="cv" markdown="1">
 
 <details class="card mt-3 p-3" markdown="1">
-<summary class="card-title font-weight-medium" style="cursor: pointer;"><span><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">NSGC 2026 Poster</span> Post-test genetic counseling is associated with lower psychological distress and uncertainty in Hereditary Breast and Ovarian Cancer testing</span></summary>
+<summary class="card-title font-weight-medium" style="cursor: pointer;"><span><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">NSGC 2026 Poster</span><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">HCC ECIS 2026 Poster</span> Post-test genetic counseling is associated with lower psychological distress and uncertainty in Hereditary Breast and Ovarian Cancer testing</span></summary>
 <div class="mt-2" markdown="1">
 
 <p class="dissertation-note">This research represents a portion of the following dissertation research: <a href="https://www.proquest.com/openview/294825624010c6b410d5a744a7f66f84/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y" target="_blank" rel="noopener noreferrer">Broadbridge, 2026</a></p>
