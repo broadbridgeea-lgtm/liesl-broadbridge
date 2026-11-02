@@ -633,6 +633,12 @@ footer.sticky-bottom {
         background-color: var(--global-theme-color) !important;
       }
     }
+
+    summary .badge {
+      color: var(--global-card-bg-color) !important;
+      background-color: var(--global-theme-color) !important;
+      margin-right: 0.5rem;
+    }
   }
 }
 

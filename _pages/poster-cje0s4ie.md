@@ -2,13 +2,16 @@
 layout: page
 permalink: /poster-cje0s4ie/
 title: references
-description: Reference lists for my NSGC 2026 posters.
+description: "Thank you for your interest in this research! Please see below for a list of relevant references."
 sitemap: false
 noindex: true
 ---
 
-<details markdown="1">
-<summary class="card-title font-weight-medium" style="cursor: pointer;">NSGC 2026 Poster: Post-test genetic counseling is associated with lower psychological distress and uncertainty in Hereditary Breast and Ovarian Cancer testing.</summary>
+<div class="cv" markdown="1">
+
+<details class="card mt-3 p-3" markdown="1">
+<summary class="card-title font-weight-medium" style="cursor: pointer;"><span><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">NSGC 2026 Poster</span> Post-test genetic counseling is associated with lower psychological distress and uncertainty in Hereditary Breast and Ovarian Cancer testing.</span></summary>
+<div class="mt-2" markdown="1">
 
 1. Hoskovec JM, Bennett RL, Carey ME, DaVanzo JE, Dougherty M, Hahn SE, et al. Projecting the supply and demand for certified genetic counselors: A workforce study. J Genet Couns. 2018;27(1):16–20. doi:[10.1007/s10897-017-0158-8](https://doi.org/10.1007/s10897-017-0158-8)
 
@@ -38,10 +41,12 @@ noindex: true
 
 14. Dorval M, Drolet M, LeBlanc M, Maunsell E, Dugas MJ, Simard J. Using the Impact of Event Scale to evaluate distress in the context of genetic testing for breast cancer susceptibility. Psychol Rep. 2006 Jun 1;98(3):873–81. doi:[10.2466/pr0.98.3.873-881](https://doi.org/10.2466/pr0.98.3.873-881)
 
+</div>
 </details>
 
-<details markdown="1">
-<summary class="card-title font-weight-medium" style="cursor: pointer;">NSGC 2026 Poster: A systematic documentation of post-test genetic counseling communication for Hereditary Breast and Ovarian Cancer.</summary>
+<details class="card mt-3 p-3" markdown="1">
+<summary class="card-title font-weight-medium" style="cursor: pointer;"><span><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">NSGC 2026 Poster</span> A systematic documentation of post-test genetic counseling communication for Hereditary Breast and Ovarian Cancer.</span></summary>
+<div class="mt-2" markdown="1">
 
 1. Cragun D, Zierhut H. Development of FOCUS-GC: Framework for outcomes of clinical communication services in genetic counseling. J Genet Couns. 2018 Feb 1;27(1):33–58. doi:[10.1007/S10897-017-0145-0](https://doi.org/10.1007/S10897-017-0145-0) PubMed PMID: 29022205.
 
@@ -59,4 +64,7 @@ noindex: true
 
 8. Roter DL, Larson S. The Roter Interaction Analysis System (RIAS): Utility and flexibility for analysis of medical interactions. Patient Educ Couns. 2002;46(4):243–51. doi:[10.1016/S0738-3991(02)00012-5](https://doi.org/10.1016/S0738-3991(02)00012-5)
 
+</div>
 </details>
+
+</div>
