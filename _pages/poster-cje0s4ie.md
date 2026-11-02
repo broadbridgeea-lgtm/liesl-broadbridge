@@ -10,8 +10,10 @@ noindex: true
 <div class="cv" markdown="1">
 
 <details class="card mt-3 p-3" markdown="1">
-<summary class="card-title font-weight-medium" style="cursor: pointer;"><span><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">NSGC 2026 Poster</span> Post-test genetic counseling is associated with lower psychological distress and uncertainty in Hereditary Breast and Ovarian Cancer testing.</span></summary>
+<summary class="card-title font-weight-medium" style="cursor: pointer;"><span><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">NSGC 2026 Poster</span> Post-test genetic counseling is associated with lower psychological distress and uncertainty in Hereditary Breast and Ovarian Cancer testing</span></summary>
 <div class="mt-2" markdown="1">
+
+<p class="dissertation-note">This research represents a portion of the following dissertation research: <a href="https://www.proquest.com/openview/294825624010c6b410d5a744a7f66f84/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y" target="_blank" rel="noopener noreferrer">Broadbridge, 2026</a></p>
 
 1. Hoskovec JM, Bennett RL, Carey ME, DaVanzo JE, Dougherty M, Hahn SE, et al. Projecting the supply and demand for certified genetic counselors: A workforce study. J Genet Couns. 2018;27(1):16–20. doi:[10.1007/s10897-017-0158-8](https://doi.org/10.1007/s10897-017-0158-8)
 
@@ -45,8 +47,10 @@ noindex: true
 </details>
 
 <details class="card mt-3 p-3" markdown="1">
-<summary class="card-title font-weight-medium" style="cursor: pointer;"><span><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">NSGC 2026 Poster</span> A systematic documentation of post-test genetic counseling communication for Hereditary Breast and Ovarian Cancer.</span></summary>
+<summary class="card-title font-weight-medium" style="cursor: pointer;"><span><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">NSGC 2026 Poster</span> A systematic documentation of post-test genetic counseling communication for Hereditary Breast and Ovarian Cancer</span></summary>
 <div class="mt-2" markdown="1">
+
+<p class="dissertation-note">This research represents a portion of the following dissertation research: <a href="https://www.proquest.com/openview/294825624010c6b410d5a744a7f66f84/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y" target="_blank" rel="noopener noreferrer">Broadbridge, 2026</a></p>
 
 1. Cragun D, Zierhut H. Development of FOCUS-GC: Framework for outcomes of clinical communication services in genetic counseling. J Genet Couns. 2018 Feb 1;27(1):33–58. doi:[10.1007/S10897-017-0145-0](https://doi.org/10.1007/S10897-017-0145-0) PubMed PMID: 29022205.
 

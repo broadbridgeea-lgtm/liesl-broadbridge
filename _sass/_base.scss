@@ -634,6 +634,15 @@ footer.sticky-bottom {
       }
     }
 
+    .dissertation-note {
+      font-size: 0.9em;
+      font-style: italic;
+      color: var(--global-text-color-light);
+      border-left: 3px solid var(--global-theme-color);
+      padding-left: 0.75rem;
+      margin-bottom: 1.25rem;
+    }
+
     summary .badge {
       color: var(--global-card-bg-color) !important;
       background-color: var(--global-theme-color) !important;
