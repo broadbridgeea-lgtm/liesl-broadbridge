@@ -124,13 +124,6 @@ ninja.data = [{
           window.open("https://twitter.com/Liesl_CGC", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/liesl-broadbridge/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
